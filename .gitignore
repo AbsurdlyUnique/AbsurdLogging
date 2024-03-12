@@ -1,0 +1,19 @@
+# Object files
+*.o
+
+# Build output
+/build/lib
+/build/example
+
+# Log files
+*.log
+
+# Editor settings
+.vscode/
+*.swp
+*~
+
+# Compiled binary
+*.exe
+*.out
+*.o
