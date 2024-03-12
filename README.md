@@ -1,1 +1,1 @@
-# AbsurdLog wriiten in c++# AbsurdLogging
+# AbsurdLog writen in c++# AbsurdLogging
